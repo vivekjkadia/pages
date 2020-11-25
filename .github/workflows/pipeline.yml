@@ -1,5 +1,4 @@
 name: Pages Pipeline
-
 on:
   push:
     branches: [master]
