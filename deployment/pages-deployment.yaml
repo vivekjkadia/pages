@@ -20,7 +20,7 @@ spec:
         tier: service
     spec:
       containers:
-        - image: groverpriyanka/pages:monitor
+        - image: groverpriyanka/pages:distributed
           name: pages
           ports:
             - containerPort: 8080
